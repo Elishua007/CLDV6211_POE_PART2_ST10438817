@@ -1,0 +1,236 @@
+﻿@model IEnumerable<EventEase_Booking_System.Models.Venue>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>VIEW VENUES</h1>
+
+<p>
+    <a asp-action="Create">Create Venue</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Venue Name
+            </th>
+            <th>
+                Venue Location
+            </th>
+            <th>
+                Venue Capacity
+            </th>
+            <th>
+                Venue URL
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.VenueName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VenueLocation)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VenueCapacity)
+            </td>
+            <td>
+                    <img src="https://placehold.co/200x120" />
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.VenueID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.VenueID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.VenueID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+
+<style>
+
+    body {
+        background-image: url('https://img.freepik.com/free-vector/gradient-liquid-abstract-background_52683-60469.jpg?t=st=1743232859~exp=1743236459~hmac=8e5591274bca350d5752f596bab4e4d1ebfcff555a4956fc211d153849daad8e&w=1380');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        padding-top: 90px;
+    }
+
+    p {
+        font-size: 20px;
+        font-family: 'Cormorant', serif;
+    }
+
+    a {
+        color: aqua;
+        font-size: 20px;
+        text-decoration: none;
+        transition: all 0.3s ease;
+    }
+
+        a:hover {
+            color: white;
+            text-shadow: 0 0 10px aqua, 0 0 20px blue;
+        }
+
+    .navbar {
+        position: fixed;
+        font-family: Open sans;
+        top: 0;
+        width: 100%;
+        background: rgba(0, 0, 0, 0.7);
+        padding: 1rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        z-index: 999;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+    }
+
+        .navbar ul {
+            list-style: none;
+            display: flex;
+            gap: 2rem;
+        }
+
+        .navbar li {
+            margin: 0;
+        }
+
+        .navbar a {
+            color: black;
+            text-decoration: none;
+            font-size: 1.2rem;
+            font-weight: bold;
+            transition: color 0.3s ease, transform 0.3s ease;
+        }
+
+            .navbar a:hover {
+                color: #00f0ff;
+                transform: translateY(-2px);
+            }
+
+        .navbar.logo {
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: #00f0ff;
+        }
+
+    h1 {
+        font-family: 'Marcellus SC', serif;
+        font-size: 30px;
+        color: white;
+    }
+
+</style>
+
+
+
+<style>
+
+    .table {
+        width: 100%;
+        border-collapse: separate;
+        border-spacing: 0;
+        margin: 25px 0;
+        font-size: 0.9em;
+        font-family: 'Open Sans', sans-serif;
+        min-width: 400px;
+        border-radius: 10px;
+        overflow: hidden;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+        background-color: violet;
+        backdrop-filter: blur(5px);
+    }
+
+        .table thead tr {
+            background-color: violet;
+            color: white;
+            text-align: left;
+            font-weight: bold;
+        }
+
+        .table th,
+        .table td {
+            padding: 12px 15px;
+            background-color: violet;
+        }
+
+        .table th {
+            font-family: Britannic;
+            font-size: 20px;
+            background-color: violet;
+        }
+
+
+
+
+        .table tbody tr:hover {
+            background-color: violet;
+            transform: scale(1.005);
+        }
+
+
+        .table td a {
+            display: inline-block;
+            padding: 5px 10px;
+            margin: 0 5px;
+            border-radius: 4px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+
+            .table td a[href*="Edit"] {
+                background-color: purple;
+                color: white;
+            }
+
+                .table td a[href*="Edit"]:hover {
+                    background-color: purple;
+                    color: white;
+                    text-shadow: none;
+                }
+
+
+            .table td a[href*="Details"] {
+                background-color: fuchsia;
+                color: white;
+            }
+
+                .table td a[href*="Details"]:hover {
+                    background-color: fuchsia;
+                    color: white;
+                    text-shadow: none;
+                }
+
+
+            .table td a[href*="Delete"] {
+                background-color: indigo;
+                color: white;
+            }
+
+                .table td a[href*="Delete"]:hover {
+                    background-color: indigo;
+                    color: white;
+                    text-shadow: none;
+                }
+
+
+        .table img {
+            border-radius: 4px;
+            border: 1px solid #ddd;
+            transition: transform 0.3s ease;
+        }
+
+            .table img:hover {
+                transform: scale(1.05);
+            }
+
+</style>
