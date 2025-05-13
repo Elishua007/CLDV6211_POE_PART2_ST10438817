@@ -1,7 +1,10 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using EventEase_Booking_System.Data;
+using Azure.Storage.Blobs;
+using EventEase_Booking_System.AzureBlobStorage;
 namespace EventEase_Booking_System
+
 {
     public class Program
     {
@@ -13,6 +16,7 @@ namespace EventEase_Booking_System
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddSingleton<IBlobService, AzureBlobService>();
 
             var app = builder.Build();
 
@@ -38,4 +42,5 @@ namespace EventEase_Booking_System
             app.Run();
         }
     }
+
 }
