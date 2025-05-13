@@ -7,16 +7,23 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using EventEase_Booking_System.Data;
 using EventEase_Booking_System.Models;
+using Azure.Storage.Blobs;
+using EventEase_Booking_System.AzureBlobStorage;
 
 namespace EventEase_Booking_System.Controllers
 {
     public class VenuesController : Controller
     {
         private readonly EventEase_Booking_SystemContext _context;
+        //private readonly AzureBlobStorage _blobService;
 
-        public VenuesController(EventEase_Booking_SystemContext context)
+        private readonly IBlobService _blob;
+
+
+        public VenuesController(EventEase_Booking_SystemContext context, IBlobService blob)
         {
             _context = context;
+            _blob = blob;
         }
 
         // GET: Venues
@@ -54,10 +61,15 @@ namespace EventEase_Booking_System.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("VenueID,VenueName,VenueLocation,VenueCapacity,VenueURL")] Venue venue)
+        public async Task<IActionResult> Create([Bind("VenueID,VenueName,VenueLocation,VenueCapacity")] Venue venue, IFormFile ImageVenue)
         {
             if (ModelState.IsValid)
             {
+                if (ImageVenue != null && ImageVenue.Length > 0)
+                {
+                    string imageUrl = await _blob.UploadFileAsync(ImageVenue.OpenReadStream(), ImageVenue.FileName);
+                    venue.VenueURL = imageUrl; 
+                }
                 _context.Add(venue);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
@@ -86,7 +98,7 @@ namespace EventEase_Booking_System.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int? id, [Bind("VenueID,VenueName,VenueLocation,VenueCapacity,VenueURL")] Venue venue)
+        public async Task<IActionResult> Edit(int? id, [Bind("VenueID,VenueName,VenueLocation,VenueCapacity")] Venue venue, IFormFile ImageVenue)
         {
             if (id != venue.VenueID)
             {
@@ -95,6 +107,31 @@ namespace EventEase_Booking_System.Controllers
 
             if (ModelState.IsValid)
             {
+               
+                var existingVenue = await _context.Venue.AsNoTracking().FirstOrDefaultAsync(v => v.VenueID == id);
+
+                if (existingVenue == null)
+                {
+                    return NotFound();
+                }
+
+                if (ImageVenue != null && ImageVenue.Length > 0)
+                {
+                    if (!string.IsNullOrEmpty(existingVenue.VenueURL))
+                    {
+                        var fileName = Path.GetFileName(new Uri(existingVenue.VenueURL).LocalPath);
+                        await _blob.DeleteFileAsync(fileName);
+                    }
+
+                    string imageUrl = await _blob.UploadFileAsync(ImageVenue.OpenReadStream(), ImageVenue.FileName);
+                    venue.VenueURL = imageUrl;
+                }
+                else
+                {
+                    
+                    venue.VenueURL = existingVenue.VenueURL;
+                }
+
                 try
                 {
                     _context.Update(venue);
@@ -111,10 +148,13 @@ namespace EventEase_Booking_System.Controllers
                         throw;
                     }
                 }
+
                 return RedirectToAction(nameof(Index));
             }
+
             return View(venue);
         }
+
 
         // GET: Venues/Delete/5
         public async Task<IActionResult> Delete(int? id)
@@ -139,14 +179,31 @@ namespace EventEase_Booking_System.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int? id)
         {
-            var venue = await _context.Venue.FindAsync(id);
-            if (venue != null)
+            bool hasBooking = await _context.Booking.AnyAsync(b => b.VenueID == id);
+            if (hasBooking)
             {
-                _context.Venue.Remove(venue);
+                var venues = await _context.Venue.FindAsync(id);
+                ModelState.AddModelError("", "Cannot delete venue with existing bookings.");
+                return View(venues);
             }
+            else
+            {
+                var venue = await _context.Venue.FindAsync(id);
+                if (venue != null)
+                {
+                    // 🔽 Delete blob from Azure before removing venue
+                    if (!string.IsNullOrEmpty(venue.VenueURL))
+                    {
+                        var fileName = Path.GetFileName(new Uri(venue.VenueURL).LocalPath);
+                        await _blob.DeleteFileAsync(fileName);
+                    }
 
-            await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
+                    _context.Venue.Remove(venue);
+                }
+
+                await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Index));
+            }
         }
 
         private bool VenueExists(int? id)

@@ -139,14 +139,25 @@ namespace EventEase_Booking_System.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int? id)
         {
-            var @event = await _context.Event.FindAsync(id);
-            if (@event != null)
+
+            bool hasBooking = await _context.Booking.AnyAsync(b => b.EventID == id);
+
+            if (hasBooking)
             {
-                _context.Event.Remove(@event);
+                // Show an error message or redirect to an error page
+                var events = await _context.Event.FindAsync(id);
+                ModelState.AddModelError("", "Cannot delete event with existing bookings.");
+                return View(events);
             }
 
-            await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
+            else
+            {
+                var eventToDelete = await _context.Event.FindAsync(id);
+                _context.Event.Remove(eventToDelete);
+                await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Index));
+            }
+            
         }
 
         private bool EventExists(int? id)

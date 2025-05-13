@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using EventEase_Booking_System.Data;
 using EventEase_Booking_System.Models;
+using Microsoft.CodeAnalysis.CSharp.Syntax;
 
 namespace EventEase_Booking_System.Controllers
 {
@@ -61,15 +62,33 @@ namespace EventEase_Booking_System.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("BookingID,BookingStartDate,BookingEndDate,EventID,VenueID")] Booking booking)
         {
-            if (ModelState.IsValid)
+            bool isOverlapping = await _context.Booking.AnyAsync(b =>
+        b.VenueID == booking.VenueID && 
+        b.BookingID != booking.BookingID && 
+        (
+            (booking.BookingStartDate >= b.BookingStartDate && booking.BookingStartDate < b.BookingEndDate) ||
+            (booking.BookingEndDate > b.BookingStartDate && booking.BookingEndDate <= b.BookingEndDate) ||
+            (booking.BookingStartDate <= b.BookingStartDate && booking.BookingEndDate >= b.BookingEndDate) 
+        )
+    );
+
+            if (ModelState.IsValid && isOverlapping == false)
             {
                 _context.Add(booking);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
+
+            else
+            {
+                ModelState.AddModelError("", "This venue is already booked for the selected dates.");
+            }
+            
             ViewData["EventID"] = new SelectList(_context.Set<Event>(), "EventID", "EventID", booking.EventID);
             ViewData["VenueID"] = new SelectList(_context.Set<Venue>(), "VenueID", "VenueID", booking.VenueID);
             return View(booking);
+
+   
         }
 
         // GET: Bookings/Edit/5
@@ -102,7 +121,22 @@ namespace EventEase_Booking_System.Controllers
                 return NotFound();
             }
 
-            if (ModelState.IsValid)
+            bool isOverlapping = await _context.Booking.AnyAsync(b =>
+                b.VenueID == booking.VenueID &&
+                b.BookingID != booking.BookingID && // Exclude the current booking
+                (
+                    (booking.BookingStartDate >= b.BookingStartDate && booking.BookingStartDate < b.BookingEndDate) ||
+                    (booking.BookingEndDate > b.BookingStartDate && booking.BookingEndDate <= b.BookingEndDate) ||
+                    (booking.BookingStartDate <= b.BookingStartDate && booking.BookingEndDate >= b.BookingEndDate)
+                )
+            );
+
+            if (isOverlapping)
+            {
+                ModelState.AddModelError("", "This venue is already booked for the selected dates.");
+            }
+
+            if (ModelState.IsValid && !isOverlapping)
             {
                 try
                 {
@@ -122,10 +156,12 @@ namespace EventEase_Booking_System.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
+
             ViewData["EventID"] = new SelectList(_context.Set<Event>(), "EventID", "EventID", booking.EventID);
             ViewData["VenueID"] = new SelectList(_context.Set<Venue>(), "VenueID", "VenueID", booking.VenueID);
             return View(booking);
         }
+
 
         // GET: Bookings/Delete/5
         public async Task<IActionResult> Delete(int? id)
