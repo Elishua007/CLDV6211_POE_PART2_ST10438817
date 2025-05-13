@@ -1,0 +1,775 @@
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\EventEase_Booking_System.csproj.AssemblyReference.cache
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\EventEase_Booking_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\EventEase_Booking_System.AssemblyInfoInputs.cache
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\EventEase_Booking_System.AssemblyInfo.cs
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\EventEase_Booking_System.csproj.CoreCompileInputs.cache
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\EventEase_Booking_System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\EventEase_Booking_System.RazorAssemblyInfo.cache
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\EventEase_Booking_System.RazorAssemblyInfo.cs
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\scopedcss\bundle\EventEase_Booking_System.styles.css
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\scopedcss\projectbundle\EventEase_Booking_System.bundle.scp.css
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\a640lgv6y7-b9sayid5wm.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\ifaqov06mn-61n19gt1b8.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\h50toqymrb-xtxxf3hu2r.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\6ciw90aomr-bqjiyaj88i.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\z0bcpsjtef-c2jlpeoesf.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\uudxklikl8-erw9l3u2r3.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\kiofot4gnz-aexeepp0ev.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\ybihpwrs21-d7shbmvgxk.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\calhiqogrp-ausgxo2sd3.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\8iznldiurm-k8d9w2qqmf.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\6w9o9g8a1c-cosvhxvwiu.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\f3fnrut9h8-ub07r2b239.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\a1sezo95wn-fvhpjtyr6v.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\kxmkomnqzt-b7pk76d08c.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\hkymb62nyr-fsbi9cje9m.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\eg5xjbv8at-rzd6atqjts.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\7hfpphf44y-ee0r1s7dh0.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\3n18q41wqo-dxx9fxp4il.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\6ood3vnpqr-jd9uben2k1.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\p9ip7x53my-khv3u5hwcm.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\wx4i4rc3ic-r4e9w2rdcm.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\lkyunduazc-lcd1t2u6c8.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\b104v5gs9l-c2oey78nd0.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\jnlw1dmpdp-tdbxkamptv.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\f9712o54kq-j5mq2jizvt.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\2k894x25cu-06098lyss8.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\lyii2w6pu4-nvvlpmu67g.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\nknh16eih2-s35ty4nyc5.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\5ixf4iuvyx-pj5nd1wqec.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\ujrqdyzaga-46ein0sx1k.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\i5rghuf1jc-v0zj4ognzu.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\cn2tyjuyke-37tfw0ft22.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\t9mr49gs2h-hrwsygsryq.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\3bb46yaoxy-pk9g2wxc8p.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\mnhf2ym95o-ft3s53vfgj.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\46esc9reg1-6cfz1n2cew.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\6ryy76oik1-6pdc2jztkx.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\zcj41sj70d-493y06b0oq.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\qbcetlrjfj-iovd86k7lj.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\g26kcx0u9q-vr1egmr9el.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\ffut02fean-kbrnm935zg.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\aazkfcr5yb-jj8uyg4cgr.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\kl77uypqga-y7v9cxd14o.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\zmw2tgzlhu-notf2xhcfb.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\jcaty0x2ll-h1s4sie4z3.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\kv3g4u0tp4-63fj8s7r0e.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\97brkajkg7-0j3bgjxly4.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\gp32orwq5i-47otxtyo56.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\qu3i82gb5g-4v8eqarkd7.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\034ly7rvbr-356vix0kms.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\e6t6vghyty-83jwlth58m.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\5xu46qd36t-mrlpezrjn3.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\i5jr6dcx5p-lzl9nlhx6b.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\jttrmlem15-ag7o75518u.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\pyjmytbz19-x0q3zqp4vz.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\v2qeoqpmrn-0i3buxo5is.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\2a840k3jar-o1o13a6vjx.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\ffxgguaz6x-ttgo8qnofa.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\zy8ok9tls5-2z0ns9nrw6.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\qkzw2j05s0-muycvpuwrr.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\iokrwd64bp-87fc7y1x7t.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\recbej2xr3-mlv21k5csn.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\988ep2xbne-z0e700vqvp.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\k249sya243-z0e700vqvp.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\staticwebassets\msbuild.EventEase_Booking_System.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\staticwebassets\msbuild.EventEase_Booking_System.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\staticwebassets\msbuild.build.EventEase_Booking_System.props
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.EventEase_Booking_System.props
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.EventEase_Booking_System.props
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\EventEase_Booking_System.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\refint\EventEase_Booking_System.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\POE PART 1\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\EventEase_Booking_System.pdb
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\appsettings.json
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\EventEase_Booking_System.staticwebassets.runtime.json
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\EventEase_Booking_System.staticwebassets.endpoints.json
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\EventEase_Booking_System.exe
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\EventEase_Booking_System.deps.json
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\EventEase_Booking_System.runtimeconfig.json
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\EventEase_Booking_System.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\EventEase_Booking_System.pdb
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Humanizer.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\EventEase_Booking_System.csproj.AssemblyReference.cache
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\EventEase_Booking_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\EventEase_Booking_System.AssemblyInfoInputs.cache
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\EventEase_Booking_System.AssemblyInfo.cs
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\EventEase_Booking_System.csproj.CoreCompileInputs.cache
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\EventEase_Booking_System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\EventEase_Booking_System.RazorAssemblyInfo.cache
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\EventEase_Booking_System.RazorAssemblyInfo.cs
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\scopedcss\bundle\EventEase_Booking_System.styles.css
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\scopedcss\projectbundle\EventEase_Booking_System.bundle.scp.css
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\a640lgv6y7-b9sayid5wm.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\ifaqov06mn-61n19gt1b8.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\h50toqymrb-xtxxf3hu2r.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\6ciw90aomr-bqjiyaj88i.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\z0bcpsjtef-c2jlpeoesf.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\uudxklikl8-erw9l3u2r3.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\kiofot4gnz-aexeepp0ev.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\ybihpwrs21-d7shbmvgxk.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\calhiqogrp-ausgxo2sd3.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\8iznldiurm-k8d9w2qqmf.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\6w9o9g8a1c-cosvhxvwiu.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\f3fnrut9h8-ub07r2b239.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\a1sezo95wn-fvhpjtyr6v.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\kxmkomnqzt-b7pk76d08c.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\hkymb62nyr-fsbi9cje9m.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\eg5xjbv8at-rzd6atqjts.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\7hfpphf44y-ee0r1s7dh0.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\3n18q41wqo-dxx9fxp4il.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\6ood3vnpqr-jd9uben2k1.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\p9ip7x53my-khv3u5hwcm.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\wx4i4rc3ic-r4e9w2rdcm.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\lkyunduazc-lcd1t2u6c8.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\b104v5gs9l-c2oey78nd0.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\jnlw1dmpdp-tdbxkamptv.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\f9712o54kq-j5mq2jizvt.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\2k894x25cu-06098lyss8.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\lyii2w6pu4-nvvlpmu67g.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\nknh16eih2-s35ty4nyc5.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\5ixf4iuvyx-pj5nd1wqec.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\ujrqdyzaga-46ein0sx1k.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\i5rghuf1jc-v0zj4ognzu.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\cn2tyjuyke-37tfw0ft22.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\t9mr49gs2h-hrwsygsryq.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\3bb46yaoxy-pk9g2wxc8p.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\mnhf2ym95o-ft3s53vfgj.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\46esc9reg1-6cfz1n2cew.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\6ryy76oik1-6pdc2jztkx.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\zcj41sj70d-493y06b0oq.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\qbcetlrjfj-iovd86k7lj.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\g26kcx0u9q-vr1egmr9el.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\ffut02fean-kbrnm935zg.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\aazkfcr5yb-jj8uyg4cgr.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\kl77uypqga-y7v9cxd14o.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\zmw2tgzlhu-notf2xhcfb.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\jcaty0x2ll-h1s4sie4z3.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\kv3g4u0tp4-63fj8s7r0e.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\97brkajkg7-0j3bgjxly4.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\gp32orwq5i-47otxtyo56.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\qu3i82gb5g-4v8eqarkd7.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\034ly7rvbr-356vix0kms.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\e6t6vghyty-83jwlth58m.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\5xu46qd36t-mrlpezrjn3.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\i5jr6dcx5p-lzl9nlhx6b.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\jttrmlem15-ag7o75518u.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\pyjmytbz19-x0q3zqp4vz.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\v2qeoqpmrn-0i3buxo5is.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\2a840k3jar-o1o13a6vjx.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\ffxgguaz6x-ttgo8qnofa.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\zy8ok9tls5-2z0ns9nrw6.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\qkzw2j05s0-muycvpuwrr.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\iokrwd64bp-87fc7y1x7t.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\recbej2xr3-mlv21k5csn.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\988ep2xbne-z0e700vqvp.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\k249sya243-z0e700vqvp.gz
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\staticwebassets\msbuild.EventEase_Booking_System.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\staticwebassets\msbuild.EventEase_Booking_System.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\staticwebassets\msbuild.build.EventEase_Booking_System.props
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.EventEase_Booking_System.props
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.EventEase_Booking_System.props
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\EventEas.84F16635.Up2Date
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\EventEase_Booking_System.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\refint\EventEase_Booking_System.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\EventEase_Booking_System.pdb
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\EventEase_Booking_System.genruntimeconfig.cache
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\ref\EventEase_Booking_System.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\EventEase_Booking_System.sourcelink.json
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Azure.Storage.Blobs.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Azure.Storage.Common.dll
+C:\Users\elish\OneDrive\Documents\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\System.IO.Hashing.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\appsettings.Development.json
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\appsettings.json
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\EventEase_Booking_System.staticwebassets.endpoints.json
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\EventEase_Booking_System.staticwebassets.runtime.json
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\EventEase_Booking_System.exe
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\EventEase_Booking_System.deps.json
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\EventEase_Booking_System.runtimeconfig.json
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\EventEase_Booking_System.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\EventEase_Booking_System.pdb
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Azure.Core.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Azure.Identity.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Azure.Storage.Blobs.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Azure.Storage.Common.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Humanizer.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.Build.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Mono.TextTemplating.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\Newtonsoft.Json.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\NuGet.Common.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\NuGet.Configuration.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\NuGet.Frameworks.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\NuGet.LibraryModel.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\NuGet.Packaging.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\NuGet.ProjectModel.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\NuGet.Protocol.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\NuGet.Versioning.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\System.ClientModel.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\System.CodeDom.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\System.Composition.Convention.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\System.Composition.Hosting.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\System.Composition.Runtime.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\System.Composition.TypedParts.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\System.Formats.Asn1.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\System.IO.Hashing.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\System.Memory.Data.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\System.Runtime.Caching.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\System.Text.Json.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\af\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ar\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\az\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\bg\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\cs\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\da\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\de\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\el\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\es\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\fa\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\fr\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\he\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\hr\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\hu\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\hy\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\id\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\is\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\it\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ja\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ku\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\lv\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\mt\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\nb\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\nl\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\pl\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\pt\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ro\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ru\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\sk\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\sl\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\sr\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\sv\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\tr\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\uk\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\vi\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\EventEase_Booking_System.csproj.AssemblyReference.cache
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\EventEase_Booking_System.GeneratedMSBuildEditorConfig.editorconfig
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\EventEase_Booking_System.AssemblyInfoInputs.cache
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\EventEase_Booking_System.AssemblyInfo.cs
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\EventEase_Booking_System.csproj.CoreCompileInputs.cache
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\EventEase_Booking_System.MvcApplicationPartsAssemblyInfo.cache
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\EventEase_Booking_System.RazorAssemblyInfo.cache
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\EventEase_Booking_System.RazorAssemblyInfo.cs
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\EventEase_Booking_System.sourcelink.json
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\scopedcss\bundle\EventEase_Booking_System.styles.css
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\scopedcss\projectbundle\EventEase_Booking_System.bundle.scp.css
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\a640lgv6y7-b9sayid5wm.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\ifaqov06mn-61n19gt1b8.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\h50toqymrb-xtxxf3hu2r.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\6ciw90aomr-bqjiyaj88i.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\z0bcpsjtef-c2jlpeoesf.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\uudxklikl8-erw9l3u2r3.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\kiofot4gnz-aexeepp0ev.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\ybihpwrs21-d7shbmvgxk.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\calhiqogrp-ausgxo2sd3.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\8iznldiurm-k8d9w2qqmf.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\6w9o9g8a1c-cosvhxvwiu.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\f3fnrut9h8-ub07r2b239.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\a1sezo95wn-fvhpjtyr6v.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\kxmkomnqzt-b7pk76d08c.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\hkymb62nyr-fsbi9cje9m.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\eg5xjbv8at-rzd6atqjts.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\7hfpphf44y-ee0r1s7dh0.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\3n18q41wqo-dxx9fxp4il.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\6ood3vnpqr-jd9uben2k1.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\p9ip7x53my-khv3u5hwcm.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\wx4i4rc3ic-r4e9w2rdcm.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\lkyunduazc-lcd1t2u6c8.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\b104v5gs9l-c2oey78nd0.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\jnlw1dmpdp-tdbxkamptv.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\f9712o54kq-j5mq2jizvt.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\2k894x25cu-06098lyss8.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\lyii2w6pu4-nvvlpmu67g.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\nknh16eih2-s35ty4nyc5.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\5ixf4iuvyx-pj5nd1wqec.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\ujrqdyzaga-46ein0sx1k.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\i5rghuf1jc-v0zj4ognzu.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\cn2tyjuyke-37tfw0ft22.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\t9mr49gs2h-hrwsygsryq.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\3bb46yaoxy-pk9g2wxc8p.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\mnhf2ym95o-ft3s53vfgj.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\46esc9reg1-6cfz1n2cew.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\6ryy76oik1-6pdc2jztkx.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\zcj41sj70d-493y06b0oq.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\qbcetlrjfj-iovd86k7lj.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\g26kcx0u9q-vr1egmr9el.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\ffut02fean-kbrnm935zg.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\aazkfcr5yb-jj8uyg4cgr.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\kl77uypqga-y7v9cxd14o.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\zmw2tgzlhu-notf2xhcfb.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\jcaty0x2ll-h1s4sie4z3.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\kv3g4u0tp4-63fj8s7r0e.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\97brkajkg7-0j3bgjxly4.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\gp32orwq5i-47otxtyo56.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\qu3i82gb5g-4v8eqarkd7.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\034ly7rvbr-356vix0kms.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\e6t6vghyty-83jwlth58m.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\5xu46qd36t-mrlpezrjn3.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\i5jr6dcx5p-lzl9nlhx6b.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\jttrmlem15-ag7o75518u.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\pyjmytbz19-x0q3zqp4vz.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\v2qeoqpmrn-0i3buxo5is.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\2a840k3jar-o1o13a6vjx.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\ffxgguaz6x-ttgo8qnofa.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\zy8ok9tls5-2z0ns9nrw6.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\qkzw2j05s0-muycvpuwrr.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\iokrwd64bp-87fc7y1x7t.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\recbej2xr3-mlv21k5csn.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\988ep2xbne-z0e700vqvp.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\compressed\k249sya243-z0e700vqvp.gz
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\staticwebassets.build.json
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\staticwebassets.development.json
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\staticwebassets\msbuild.EventEase_Booking_System.Microsoft.AspNetCore.StaticWebAssets.props
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\staticwebassets\msbuild.EventEase_Booking_System.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\staticwebassets\msbuild.build.EventEase_Booking_System.props
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.EventEase_Booking_System.props
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.EventEase_Booking_System.props
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\staticwebassets.pack.json
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\EventEas.84F16635.Up2Date
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\EventEase_Booking_System.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\refint\EventEase_Booking_System.dll
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\EventEase_Booking_System.pdb
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\EventEase_Booking_System.genruntimeconfig.cache
+F:\VARSITY COLLEGE UNIVERSITY\SEMESTER 3\CLDV6211\ASSIGNMENTS\ASP NET CORE MVC\EventEase_Booking_System\obj\Debug\net9.0\ref\EventEase_Booking_System.dll
