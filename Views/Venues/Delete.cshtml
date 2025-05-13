@@ -47,6 +47,10 @@
         <a asp-action="Index"><b>Back to List</b></a>
     </div>
 
+    <div>
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    </div>
+
 </div>
 
 

@@ -39,9 +39,16 @@
             <td>
                 @Html.DisplayFor(modelItem => item.VenueCapacity)
             </td>
-            <td>
-                    <img src="https://placehold.co/200x120" />
-            </td>
+                <td>
+                    @if (!string.IsNullOrEmpty(item.VenueURL))
+                    {
+                        <img src="@item.VenueURL" alt="Venue Image" width="200" height="100" />
+                    }
+                    else
+                    {
+                        <span>No image</span>
+                    }
+                </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.VenueID">Edit</a> |
                 <a asp-action="Details" asp-route-id="@item.VenueID">Details</a> |

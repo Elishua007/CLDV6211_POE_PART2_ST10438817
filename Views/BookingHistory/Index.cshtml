@@ -1,56 +1,77 @@
-﻿@model IEnumerable<EventEase_Booking_System.Models.Booking>
+﻿@model EventEase_Booking_System.ViewModels.BookingHistory
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Booking History";
 }
 
-<h1>VIEW BOOKINGS</h1>
+<h1>Booking History</h1>
 
-<p>
-    <a asp-action="Create">Create Booking</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                Booking Start Date
-            </th>
-            <th>
-                Booking End Date
-            </th>
-            <th>
-                Venue ID
-            </th>
-            <th>
-                Event ID
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.BookingStartDate)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.BookingEndDate)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Venue.VenueID)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Event.EventID)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.BookingID">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.BookingID">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.BookingID">Delete</a>
-            </td>
-        </tr>
-}
-    </tbody>
-</table>
+<!-- Filter Form -->
+<form asp-action="BookingHistory" method="get" class="mb-4">
+    <div class="row">
+        <div class="col-md-12">
+
+            <div class="form-group">
+                <label asp-for="FilterEventName" class="control-label">Event Name</label>
+                <input asp-for="FilterEventName" class="form-control" />
+            </div>
+            <br />
+        </div>
+
+        <div class="col-md-12">
+            <div class="form-group">
+                <label asp-for="FilterVenueName" class="control-label">Venue Name</label>
+                <input asp-for="FilterVenueName" class="form-control" />
+            </div>
+            <br />
+
+        </div>
+        <div class="col-md-12">
+            <div class="form-group">
+                <label asp-for="FilterBookingStartDate" class="control-label">Booking Start Date</label>
+                <input asp-for="FilterBookingStartDate" type="date" class="form-control" />
+            </div>
+
+            <br />
+        </div>
+        <div class="col-md-12">
+            <div class="form-group">
+                <label asp-for="FilterBookingEndDate" class="control-label">Booking End Date</label>
+                <input asp-for="FilterBookingEndDate" type="date" class="form-control" />
+            </div>
+            <br />
+
+        </div>
+    </div>
+    <div class="form-group mt-2">
+        <input type="submit" value="Filter" class="btn btn-primary" />
+    </div>
+</form>
+
+<!-- Results Table -->
+
+    <table class="table table-striped">
+        <thead class="thead-dark">
+            <tr>
+                <th>Event</th>
+                <th>Venue</th>
+                <th>Start Date</th>
+                <th>End Date</th>
+            </tr>
+        </thead>
+        <tbody>
+
+        @foreach (var booking in Model.Bookings)
+        {
+            <tr>
+                <td>@booking.Event?.EventName</td>
+                <td>@booking.Venue?.VenueName</td>
+                <td>@booking.BookingStartDate</td>
+                <td>@booking.BookingEndDate</td>
+            </tr>
+        }
+        </tbody>
+    </table>
 
 
 
@@ -130,8 +151,27 @@
         color: white;
     }
 
-</style>
 
+    label {
+        font-family: 'Cormorant', serif;
+        font-size: 20px;
+        color: white;
+    }
+
+
+    .btn-primary {
+        background-color: purple;
+        font-size: 20px;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-family: 'Cormorant', serif;
+    }
+
+
+</style>
 
 
 
